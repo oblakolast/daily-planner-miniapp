@@ -1,0 +1,14 @@
+{
+  "name": "daily-planner-telegram-miniapp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Telegram Mini App «Ежедневник» — расписание пар",
+  "scripts": {
+    "start": "node server.js",
+    "setup": "node setup-bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

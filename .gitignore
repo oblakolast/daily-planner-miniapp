@@ -1,0 +1,9 @@
+# Секреты и локальные файлы
+НАСТРОЙКИ.txt
+.env
+node_modules/
+*.log
+
+# Служебные файлы ОС
+.DS_Store
+Thumbs.db
