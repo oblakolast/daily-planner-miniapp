@@ -16,7 +16,7 @@
 #   123456789:AAHxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 # Скопируйте её целиком после "=".
 #
-BOT_TOKEN=9147455592:AAHT5uSoBaHH3K2esxyy89mclZ18vKsBxTA
+BOT_TOKEN=
 
 # ------------------------------------------------------------
 # 2) ПУБЛИЧНЫЙ HTTPS-АДРЕС ПРИЛОЖЕНИЯ  (обязательно для Telegram)
